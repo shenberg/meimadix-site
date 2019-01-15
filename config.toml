@@ -1,4 +1,4 @@
-baseURL = "http://www.meimadix.com/"
+baseURL = "https://www.meimadix.com/"
 languageCode = "en-us"
 title = "Meimadix"
 theme = "aether"
