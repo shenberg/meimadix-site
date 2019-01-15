@@ -1,12 +1,12 @@
 ---
-title: "Something Smarter?"
+title: "Something Smarter"
 date: 2019-01-15T17:06:34+02:00
 dropCap: false
 ---
 
 {{% rtl %}}
 
-אנחנו רועי שנברג ואוריין שרוני, פועלים שנים בשדה הטכנולוגי ומתמחים בעבודות אינטראקטיביות. מעבר לעבודות שאנו עושים עצמאית, אנו אחראים על הפן הטכנולוגי בעבודות של אחרים בכנסים, מוזיאונים ותערוכות.
+אנחנו <b style="font-size: 1.3em">[רועי שנברג](mailto:shenberg@gmail.com) ו[אוריין שרוני](mailto:orian.sharoni@gmail.com)</b>, פועלים שנים בשדה הטכנולוגי ומתמחים בעבודות אינטראקטיביות. מעבר לעבודות שאנו עושים עצמאית, אנו אחראים על הפן הטכנולוגי בעבודות של אחרים בכנסים, מוזיאונים ותערוכות.
 
 # תחומי עשייה
 
@@ -51,3 +51,10 @@ Style transfer live mirror based on machine learning image processing
 A musical instrument that transform sound into a visual experience. Winner of Hack-a-tune hackathon 2017.
 
 {{< youtube id="HX8fSuhVth0" >}}
+
+
+## E-mails again:
+
+[shenberg@gmail.com](mailto:shenberg@gmail.com)
+
+[orian.sharoni@gmail.com](mailto:orian.sharoni@gmail.com)
