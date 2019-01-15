@@ -1,7 +1,6 @@
 ---
 title: "Something Smarter?"
 date: 2019-01-15T17:06:34+02:00
-draft: true
 dropCap: false
 ---
 
