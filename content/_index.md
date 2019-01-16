@@ -6,7 +6,7 @@ dropCap: false
 
 {{% rtl %}}
 
-אנחנו <b style="font-size: 1.3em">[רועי שנברג](mailto:shenberg@gmail.com) ו[אוריין שרוני](mailto:orian.sharoni@gmail.com)</b>, פועלים שנים בשדה הטכנולוגי ומתמחים בעבודות אינטראקטיביות. מעבר לעבודות שאנו עושים עצמאית, אנו אחראים על הפן הטכנולוגי בעבודות של אחרים בכנסים, מוזיאונים ותערוכות.
+אנחנו <b style="font-size: 1.3em">[רועי שנברג](mailto:roee@meimadix.com) ו[אוריין שרוני](mailto:orian@meimadix.com)</b>, פועלים שנים בשדה הטכנולוגי ומתמחים בעבודות אינטראקטיביות. מעבר לעבודות שאנו עושים עצמאית, אנו אחראים על הפן הטכנולוגי בעבודות של אחרים בכנסים, מוזיאונים ותערוכות.
 
 # תחומי עשייה
 
@@ -55,6 +55,6 @@ A musical instrument that transform sound into a visual experience. Winner of Ha
 
 ## E-mails again:
 
-[shenberg@gmail.com](mailto:shenberg@gmail.com)
+[roee@meimadix.com](mailto:roee@meimadix.com)
 
-[orian.sharoni@gmail.com](mailto:orian.sharoni@gmail.com)
+[orian@meimadix.com](mailto:orian@meimadix.com)
