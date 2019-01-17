@@ -2,3 +2,8 @@ baseURL = "https://www.meimadix.com/"
 languageCode = "en-us"
 title = "Meimadix"
 theme = "aether"
+googleAnalytics = "UA-132702233-1"
+
+[params]
+brand="Meimadix"
+description="Meimadix does magic. We can do it for you, too."
