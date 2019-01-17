@@ -31,6 +31,4 @@ Style transfer live mirror based on machine learning image processing
 
 ## Contact
 
-[roee@meimadix.com](mailto:roee@meimadix.com)
-
-[orian@meimadix.com](mailto:orian@meimadix.com)
+[contact@meimadix.com](mailto:contact@meimadix.com)
