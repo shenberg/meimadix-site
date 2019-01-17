@@ -10,7 +10,7 @@ Real-time reflection of shadows on a wall. Currently taking part in the exhibiti
 
 {{< youtube id="1qv93FsDUPc" >}}
 
-## Luminus
+## Luminous
 
 Digital graffiti party, users join a wifi network that transforms their phones into a digital paintbrush
 
