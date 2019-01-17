@@ -28,12 +28,6 @@ Style transfer live mirror based on machine learning image processing
 
 {{< youtube id="6slDfN0jil8" >}}
 
-## Beat Vision
-
-A musical instrument that transform sound into a visual experience. Winner of Hack-a-tune hackathon 2017.
-
-{{< youtube id="HX8fSuhVth0" >}}
-
 
 ## Contact
 
