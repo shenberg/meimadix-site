@@ -4,24 +4,6 @@ date: 2019-01-15T17:06:34+02:00
 dropCap: false
 ---
 
-{{% rtl %}}
-
-אנחנו <b style="font-size: 1.3em">[רועי שנברג](mailto:roee@meimadix.com) ו[אוריין שרוני](mailto:orian@meimadix.com)</b>, פועלים שנים בשדה הטכנולוגי ומתמחים בעבודות אינטראקטיביות. מעבר לעבודות שאנו עושים עצמאית, אנו אחראים על הפן הטכנולוגי בעבודות של אחרים בכנסים, מוזיאונים ותערוכות.
-
-# תחומי עשייה
-
-- הקרנה - הייצוג המוקרן מגיב בזמן אמת לתנועה במרחב
-- סאונד - תגובה מוסיקלית בזמן אמת להתרחשות
-- אינטראקציה מבוססת גלי מח (EEG) וחיישני גוף אחרים
-- ארדואינו, לדים וחיישני סביבה
-- אינטגרציה בין טלפונים חכמים של משתתפים בסביבת התצוגה על גבי רשת מקומית
-
-
-# עבודות נבחרות
-
-{{% /rtl %}}
-
-
 ## Echo You (Shadows)
 
 Real-time reflection of shadows on a wall. Currently taking part in the exhibition "I to Eye" in The Israel Museum, Jerusalem
@@ -53,7 +35,7 @@ A musical instrument that transform sound into a visual experience. Winner of Ha
 {{< youtube id="HX8fSuhVth0" >}}
 
 
-## E-mails again:
+## Contact
 
 [roee@meimadix.com](mailto:roee@meimadix.com)
 
