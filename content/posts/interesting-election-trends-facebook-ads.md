@@ -3,6 +3,7 @@ title: "בחירות 2019: מגמות מסקרנות בקמפיינים בפיי
 date: 2019-03-31T00:03:26+03:00
 draft: false
 dropCap: false
+rtl: true
 ---
 
 {{% rtl %}}
