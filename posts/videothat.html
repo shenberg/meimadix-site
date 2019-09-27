@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!--  This site was created in Webflow. http://www.webflow.com  -->
-<!--  Last Published: Fri Sep 27 2019 01:32:22 GMT+0000 (UTC)  -->
+<!--  Last Published: Fri Sep 27 2019 01:54:12 GMT+0000 (UTC)  -->
 <html data-wf-page="5d8bdf83d9987b66d7875440" data-wf-site="5cbca073fad96c5a1399bd63">
 <head>
   <meta charset="utf-8">
@@ -44,8 +44,8 @@ ga('send', 'pageview');
   <div>
     <div></div>
     <div class="w-container">
-      <h1>Blog</h1>
       <article>
+        <h4>Blog</h4>
         <div class="blog-post w-richtext">
           <h1>VideoThat!</h1>
           <h3>Automagically Generate a Music Video for Your Input Audio</h3>
@@ -83,7 +83,7 @@ ga('send', 'pageview');
           <p>Segmenting videos can be done automatically, using the <a href="https://pypi.org/project/scenedetect/">scenedetect</a> python package. <br></p>
           <p>Then, to generate a fingerprint for each audio segment at hand, we use <a href="https://librosa.github.io/librosa/">librosa</a> python package to discover <a href="https://librosa.github.io/librosa/generated/librosa.onset.onset_detect.html#librosa.onset.onset_detect">onset</a> patterns.<br></p>
           <figure class="w-richtext-align-center w-richtext-figure-type-image">
-            <div><img src="../images/Efzfso7OXAwM383YMA7RdCXpmp08C6KSbNuUBNOO908CslTR_rjmjRjUQzpc5BB50YCLJOk1hS5DMIZy1UvPcfpiQk0AauT5vlrV9aXnrD27kfdr6ipvHRYLJeEAe-zAoivhNVfF.png" alt=""></div>
+            <div><img src="../images/onsets_strength_smaller.png" alt=""></div>
             <figcaption>Spectral Novelty</figcaption>
           </figure>
           <h3>Scoring Function or: how to best match sound with scenes<br></h3>
@@ -91,7 +91,6 @@ ga('send', 'pageview');
           <figure class="w-richtext-align-center w-richtext-figure-type-image">
             <div><img src="../images/n5L4mgRCmj5Cg2jUAJuYDyASNaK9L21Av9Fd1SJFpEMHPAYmpWpBojUrTxpFwHgpeprw6rSFeUNEzYPciq-i-FAA42WzBPv68UIhFxN1Z9FctMGHdKzUDakfqhx_V0TOl55ESew2.gif" alt=""></div>
           </figure>
-          <p><br></p>
           <p>The scoring function we chose is based on the correlation between the spectral novelty of each clip and the spectral novelty of the target song. However, choosing the raw correlation is a poor choice in practice, because the spectral novelty is a non-negative quantity, which biases us towards longer clips since they have more chances of having notes align even if the beat doesn’t match.<br></p>
           <p>To combat this, we can look at the rate of correlation, or ‘correlation per second’, by dividing the total correlation by the length of the clip we correlate to. This is also not the best, since it biases us towards short clips that align perfectly, while we do want longer matches that aren’t 100% on-beat for a more satisfying result.<br></p>
           <p>In the end we chose to use a balanced approach of dividing the correlation by the square root of the length of the clip, which still biases towards longer clips, but gives short-but-good matches a fighting chance:</p>
